@@ -1,0 +1,135 @@
+2020-09-22 13:01:35,144 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:01:35,149 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:01:35,151 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 13:01:35,153 INFO s.Log [main] -------------------------------
+2020-09-22 13:01:35,155 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:01:35,159 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:01:35,159 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 13:01:35,160 INFO s.Log [main] -------------------------------
+2020-09-22 13:01:35,161 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:01:35,161 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:01:35,162 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 13:01:35,162 INFO s.Log [main] -------------------------------
+2020-09-22 13:22:36,917 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:22:36,924 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:22:36,926 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 13:22:36,926 INFO s.Log [main] -------------------------------
+2020-09-22 13:22:36,932 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:22:36,933 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:22:36,934 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 13:22:36,935 INFO s.Log [main] -------------------------------
+2020-09-22 13:22:36,936 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:22:36,936 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:22:36,937 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 13:22:36,937 INFO s.Log [main] -------------------------------
+2020-09-22 13:23:09,767 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:23:09,772 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:23:09,774 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 13:23:09,775 INFO s.Log [main] -------------------------------
+2020-09-22 13:23:09,777 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:23:09,777 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:23:09,778 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 13:23:09,779 INFO s.Log [main] -------------------------------
+2020-09-22 13:23:09,780 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:23:09,780 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:23:09,781 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 13:23:09,781 INFO s.Log [main] -------------------------------
+2020-09-22 13:24:22,134 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:24:22,139 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:24:22,141 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 13:24:22,142 INFO s.Log [main] -------------------------------
+2020-09-22 13:24:22,144 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:24:22,144 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:24:22,145 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 13:24:22,145 INFO s.Log [main] -------------------------------
+2020-09-22 13:24:22,146 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:24:22,149 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:24:22,149 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 13:24:22,150 INFO s.Log [main] -------------------------------
+2020-09-22 13:52:40,037 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:52:40,043 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:52:40,047 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 13:52:40,048 INFO s.Log [main] -------------------------------
+2020-09-22 13:52:40,050 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:52:40,051 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:52:40,051 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 13:52:40,052 INFO s.Log [main] -------------------------------
+2020-09-22 13:52:40,053 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:52:40,053 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:52:40,054 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 13:52:40,054 INFO s.Log [main] -------------------------------
+2020-09-22 13:53:36,988 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:53:36,998 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:53:36,999 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 13:53:37,000 INFO s.Log [main] -------------------------------
+2020-09-22 13:53:37,001 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:53:37,002 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:53:37,002 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 13:53:37,003 INFO s.Log [main] -------------------------------
+2020-09-22 13:53:37,004 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:53:37,006 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:53:37,007 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 13:53:37,007 INFO s.Log [main] -------------------------------
+2020-09-22 13:54:14,131 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:54:14,136 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:54:14,138 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 13:54:14,139 INFO s.Log [main] -------------------------------
+2020-09-22 13:54:14,141 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:54:14,141 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:54:14,142 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 13:54:14,142 INFO s.Log [main] -------------------------------
+2020-09-22 13:54:14,143 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:54:14,144 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:54:14,145 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 13:54:14,146 INFO s.Log [main] -------------------------------
+2020-09-22 13:54:51,939 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:54:51,944 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:54:51,946 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 13:54:51,946 INFO s.Log [main] -------------------------------
+2020-09-22 13:54:51,948 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:54:51,949 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:54:51,949 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 13:54:51,949 INFO s.Log [main] -------------------------------
+2020-09-22 13:54:51,950 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 13:54:51,951 INFO s.Log [main] SystemClock[Z]
+2020-09-22 13:54:51,951 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 13:54:51,952 INFO s.Log [main] -------------------------------
+2020-09-22 14:00:40,097 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 14:00:40,101 INFO s.Log [main] SystemClock[Z]
+2020-09-22 14:00:40,103 INFO s.Log [main] Действие: Метод Main()
+2020-09-22 14:00:40,103 INFO s.Log [main] -------------------------------
+2020-09-22 14:00:40,105 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 14:00:40,105 INFO s.Log [main] SystemClock[Z]
+2020-09-22 14:00:40,106 INFO s.Log [main] Действие: Вычитание 35
+2020-09-22 14:00:40,107 INFO s.Log [main] -------------------------------
+2020-09-22 14:00:40,108 INFO s.Log [main] 
+Log Entry : 
+2020-09-22 14:00:40,108 INFO s.Log [main] SystemClock[Z]
+2020-09-22 14:00:40,109 INFO s.Log [main] Действие: Сложение 30
+2020-09-22 14:00:40,109 INFO s.Log [main] -------------------------------
